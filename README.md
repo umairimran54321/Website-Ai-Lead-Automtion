@@ -56,12 +56,17 @@ Research Assistant
 - ✅ RSS Feed → AI Summary → Telegram
 - ⏳ AI Lead Qualification
 - ⏳ CRM Duplicate Checker
-- n8n-workflows/
-│
-├── images/
-│   ├── Workflow.jpg
-│   ├── Output.jpg
-│   └── Input.jpg
 
-├── lead-form-google-sheets-gmail.json
-└── README.m
+# Lead Form → Google Sheets → Gmail
+
+## Workflow
+
+![Workflow](Workflow.jpeg)
+
+## Input
+
+![Input](Input.jpeg)
+
+## Output
+
+![Output](Output.jpeg)
